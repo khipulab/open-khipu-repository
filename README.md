@@ -10,7 +10,7 @@ Data archived in this repository are preserved in the [`data/`](https://github.c
 
 The `data/` directory also contains the current master list of KH numbers (`okr-kh-numbers.csv`), which tracks the assignment and release of KH identifiers for khipus whose data are made publicly available.
 
-A list of known data contributors is available [here](https://github.com/khipulab/open-khipu-repository/blob/master/contributors.md). If you have recorded khipu data included in the repository but are not listed, please contact the OKR team at okr-team@googlegroups.com.
+A list of known data contributors is available [here](https://github.com/khipulab/open-khipu-repository/blob/master/contributors). If you have recorded khipu data included in the repository but are not listed, please contact the OKR team at okr-team@googlegroups.com.
 
 The data in this repository will continue to grow as additional khipus are documented and as their data are made openly available.
 
