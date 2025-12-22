@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/296378423.svg)](https://zenodo.org/badge/latestdoi/296378423)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18025748.svg)](https://doi.org/10.5281/zenodo.18025748)
 
 # The Open Khipu Repository
 
@@ -43,4 +43,4 @@ Our goal is to make the field of khipu studies open, inclusive, and safe for all
 
 ## Citation
 
-If you use this repository for a scientific publication, please cite the OKR using our Zenodo DOI: https://doi.org/10.5281/zenodo.5037551 (see the “Cite as” section on [our Zenodo page](https://zenodo.org/records/6908343) for details).
+If you use this repository for a scientific publication, please cite the OKR using our Zenodo DOI: https://doi.org/10.5281/zenodo.18025748 (see the “Cite as” section on [our Zenodo page](https://zenodo.org/records/18025748) for details).
